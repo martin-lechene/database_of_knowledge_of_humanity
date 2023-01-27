@@ -30,12 +30,12 @@ Créer un README.md pour partager le projet sur GitHub
 - Correction de bugs
 
 ## Copyright
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2023 [@martin-lechene]
 
 ##Commercial use
 N'est actuellement pas utilisable commercialement parlant.
 
 Fait avec
-Ce projet a été créé avec les markdowns Github.
+En recherche..
 
 Ce projet est en cours de développement. Il est possible que certaines fonctionnalités n'est pas encore implémentées ou qu'il y ait des bugs. N'hésitez pas à signaler tout problème ou à proposer des améliorations sur ce projet.
