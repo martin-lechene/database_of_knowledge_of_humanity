@@ -1,2 +1,6 @@
-# database_of_knowledge_of_humanity
-Créer un projet de recherche globale de données pour centraliser les informations à un seul endroit et améliorer l'efficacité de la recherche d'informations.
+# Database of knowledge of humanity
+Il existe de nombreuses raisons pour lesquelles je souhaiterais créer un projet qui permet de chercher dans l'ensemble des données que j'ai en ma possession. Tout d'abord, cela me permettrait de créer un système de recherche intelligent qui me permettrait de rechercher du savoir dans l'ensemble des URLs ciblées, des documents, du contenu, des PDF ou des fichiers. Cela me permettrait de centraliser toutes mes informations à un seul et même endroit, pour un focus sur une recherche vraiment performante et utile à l'instant T, évitant ainsi les nombreuses heures de recherche pour trouver une documentation, un projet ou une question que je me suis posée.
+
+En outre, un tel projet aurait également des applications pratiques pour d'autres domaines. Par exemple, cela pourrait être utilisé pour rechercher des informations sur les produits dans une entreprise, pour rechercher des données dans les bases de données de recherche scientifique ou pour rechercher des informations sur les projets de développement dans une organisation.
+
+Enfin, en créant un tel projet, je pourrais également le rendre accessible sur GitHub en utilisant un format de README.md, ce qui permettrait aux autres utilisateurs de le télécharger et de l'utiliser pour leurs propres besoins. En somme, un projet de recherche globale de données aurait de nombreux avantages pour améliorer l'efficacité de la recherche d'informations et pourrait avoir des applications pratiques dans de nombreux domaines différents.
